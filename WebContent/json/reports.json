@@ -1,0 +1,22 @@
+[{
+	"deptno": 10,
+	"maxsal": 5000.0,
+	"minsal": 800.0,
+	"avgsal": 2500.0,
+	"sumsal": 20000.0,
+	"counter": 500
+}, {
+	"deptno": 20,
+	"maxsal": 15000.0,
+	"minsal": 1800.0,
+	"avgsal": 4000.0,
+	"sumsal": 10000.0,
+	"counter": 600
+}, {
+	"deptno": 30,
+	"maxsal": 12000.0,
+	"minsal": 2500.0,
+	"avgsal": 3000.0,
+	"sumsal": 8000.0,
+	"counter": 700
+}]
